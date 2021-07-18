@@ -109,4 +109,7 @@ reverse_list(head)
         last = current
 ```
 
-[Shafaet's planets BLOG](http://www.shafaetsplanet.com/?p=1313)
+# Array example problem - observe complexity
+
+
+[Shafaet's planets BLOG on Time Complexity](http://www.shafaetsplanet.com/?p=1313)
